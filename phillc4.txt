@@ -1,0 +1,4 @@
+ucinetid: phillc4
+
+Hi, my name is Phillip and I am a 3rd year SWE major.
+I like to cook, go hiking, and watching Netflix.
